@@ -1,5 +1,4 @@
 import json
-import re
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -19,6 +18,10 @@ matches = []
 
 for link in soup.find_all("a", href=True):
     href = link["href"]
+
+    # Csak az MTK Budapest mérkőzései
+    if "ppX6bEHk" not in href:
+        continue
 
     if "/merkozes/foci/" not in href:
         continue
@@ -41,6 +44,7 @@ for link in soup.find_all("a", href=True):
 
 # Duplikációk eltávolítása
 unique = {}
+
 for match in matches:
     unique[match["url"]] = match
 
@@ -55,4 +59,4 @@ data = {
 with open("data/mtk.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
-print(f"{len(matches)} mérkőzés elmentve.")
+print(f"{len(matches)} MTK mérkőzés elmentve.")
