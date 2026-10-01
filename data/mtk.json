@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T12:36:34.442953Z",
+  "updated": "2026-10-01T13:33:06.916214Z",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
     {
@@ -53,11 +53,6 @@
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/burkina-faso-bJOXzWga/osszefoglalas/statisztika/"
     },
     {
-      "text": "DAC Dunaszerdahely - Puskás",
-      "url": "https://www.eredmenyek.com/merkozes/foci/dunajska-streda-YHIkizpH/puskas-akademia-2m24xZpe/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dunajska-streda-YHIkizpH/puskas-akademia-2m24xZpe/osszefoglalas/statisztika/"
-    },
-    {
       "text": "Magyarország U21 - Litvánia U21",
       "url": "https://www.eredmenyek.com/merkozes/foci/litvania-8lI0Pf46/magyarorszag-r1a2DSyG/",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/litvania-8lI0Pf46/magyarorszag-r1a2DSyG/osszefoglalas/statisztika/"
@@ -101,6 +96,11 @@
       "text": "Ferencváros - DVSC",
       "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/ferencvarosi-tc-pKS9M7R7/",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/ferencvarosi-tc-pKS9M7R7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Videoton - Szentlőrinc",
+      "url": "https://www.eredmenyek.com/merkozes/foci/szentlorinc-8nTZJCAg/videoton-MctUvj1e/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/szentlorinc-8nTZJCAg/videoton-MctUvj1e/osszefoglalas/statisztika/"
     }
   ]
 }
