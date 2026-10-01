@@ -1,12 +1,7 @@
 {
-  "updated": "2026-09-30T23:26:18.568858Z",
+  "updated": "2026-10-01T00:38:07.821926Z",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
-    {
-      "text": "Argentína - Bolívia",
-      "url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/bolivia-nXdi7mbc/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/bolivia-nXdi7mbc/osszefoglalas/statisztika/"
-    },
     {
       "text": "Németország - Szerbia",
       "url": "https://www.eredmenyek.com/merkozes/foci/nemetorszag-ptQide1O/szerbia-8Kl6iq0i/",
@@ -51,6 +46,11 @@
       "text": "Spanyolország - Csehország",
       "url": "https://www.eredmenyek.com/merkozes/foci/csehorszag-6LHwBDGU/spanyolorszag-bLyo6mco/",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/csehorszag-6LHwBDGU/spanyolorszag-bLyo6mco/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Argentína - Burkina Faso",
+      "url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/burkina-faso-bJOXzWga/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/burkina-faso-bJOXzWga/osszefoglalas/statisztika/"
     },
     {
       "text": "DAC Dunaszerdahely - Puskás",
