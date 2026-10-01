@@ -1,85 +1,68 @@
 import json
+import re
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+from datetime import datetime, timezone
 
-RESULTS_URL = "https://www.eredmenyek.com/foci/magyarorszag/nb-i/eredmenyek/"
-FIXTURES_URL = "https://www.eredmenyek.com/foci/magyarorszag/nb-i/meccsek/"
+URLS = [
+    "https://www.eredmenyek.com/foci/magyarorszag/nb-i/eredmenyek/",
+    "https://www.eredmenyek.com/foci/magyarorszag/nb-i/meccsek/"
+]
 
-headers = {
-    "User-Agent": "Mozilla/5.0 (Linux; Android 10) AppleWebKit/537.36 Chrome/143.0 Mobile Safari/537.36"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36",
+    "Accept-Language": "hu-HU,hu;q=0.9"
 }
 
+matches = []
 
-def get_matches(url):
-    response = requests.get(url, headers=headers, timeout=30)
+for url in URLS:
+    response = requests.get(url, headers=HEADERS, timeout=30)
     response.raise_for_status()
 
     soup = BeautifulSoup(response.text, "html.parser")
 
-    matches = []
+    # Az oldal teljes szövege
+    text = soup.get_text(" ", strip=True)
 
-    for link in soup.find_all("a", href=True):
-        href = link["href"]
+    # MTK-t tartalmazó szövegrészek keresése
+    for match in re.finditer(
+        r'(\d{1,2}\.\d{1,2}\.\s+\d{1,2}:\d{2})\s+'
+        r'(MTK Budapest|[^|]+?)\s+'
+        r'(MTK Budapest|[^|]+?)',
+        text,
+        re.IGNORECASE
+    ):
+        date_time = match.group(1)
+        home = match.group(2).strip()
+        away = match.group(3).strip()
 
-        # Csak valódi mérkőzéslinkek
-        if "/merkozes/foci/" not in href:
+        if "mtk" not in (home + " " + away).lower():
             continue
-
-        text = " ".join(link.stripped_strings)
-
-        full_url = href
-
-        if not full_url.startswith("http"):
-            full_url = "https://www.eredmenyek.com" + full_url
-
-        # Csak olyan mérkőzés kell, ahol MTK szerepel
-        combined = (text + " " + full_url).lower()
-
-        if "mtk" not in combined:
-            continue
-
-        stats_url = (
-            full_url.rstrip("/")
-            + "/osszefoglalas/statisztika/"
-        )
 
         matches.append({
-            "text": text,
-            "url": full_url,
-            "stats_url": stats_url
+            "date": date_time,
+            "home": home,
+            "away": away,
+            "source": url
         })
-
-    return matches
-
-
-matches = []
-
-# Lejátszott mérkőzések
-matches.extend(get_matches(RESULTS_URL))
-
-# Következő mérkőzések
-matches.extend(get_matches(FIXTURES_URL))
-
 
 # Duplikációk eltávolítása
 unique = {}
 
-for match in matches:
-    unique[match["url"]] = match
+for m in matches:
+    key = (m["date"], m["home"], m["away"])
+    unique[key] = m
 
 matches = list(unique.values())
 
-
 data = {
-    "updated": datetime.utcnow().isoformat() + "Z",
-    "source": RESULTS_URL,
+    "updated": datetime.now(timezone.utc).isoformat(),
+    "source": "https://www.eredmenyek.com/",
     "matches": matches
 }
 
-
 with open("data/mtk.json", "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
-
 
 print(f"{len(matches)} MTK mérkőzés elmentve.")
