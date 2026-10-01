@@ -19,11 +19,12 @@ matches = []
 for link in soup.find_all("a", href=True):
     href = link["href"]
 
-    # Csak az MTK Budapest mérkőzései
-    if "ppX6bEHk" not in href:
+    # Csak valódi mérkőzéslinkek
+    if "/merkozes/foci/" not in href:
         continue
 
-    if "/merkozes/foci/" not in href:
+    # Csak olyan meccs, amelyben az MTK Budapest csapata szerepel
+    if "mtk-budapest-ppX6bEHk" not in href.lower():
         continue
 
     text = " ".join(link.stripped_strings)
