@@ -9,45 +9,54 @@ matches = []
 with sync_playwright() as p:
     browser = p.chromium.launch(headless=True)
 
-    page = browser.new_page(
+    context = browser.new_context(
         locale="hu-HU",
         timezone_id="Europe/Budapest"
     )
 
-    page.goto(URL, wait_until="networkidle", timeout=60000)
+    page = context.new_page()
 
-    # Betöltés után még várunk egy kicsit
-    page.wait_for_timeout(5000)
+    page.goto(URL, wait_until="domcontentloaded", timeout=60000)
 
-    # Minden mérkőzéshez tartozó link
-    links = page.locator('a[href*="/merkozes/"]')
+    # Megvárjuk, hogy az eredmények megjelenjenek
+    page.get_by_text("MTK Budapest", exact=True).first.wait_for(
+        state="visible",
+        timeout=30000
+    )
 
-    count = links.count()
+    # Az MTK-t tartalmazó elemek keresése
+    mtk_elements = page.get_by_text("MTK Budapest", exact=True)
+
+    count = mtk_elements.count()
 
     for i in range(count):
-        link = links.nth(i)
-
         try:
-            text = " ".join(link.inner_text().split())
-            href = link.get_attribute("href")
+            element = mtk_elements.nth(i)
 
-            if not href or not text:
-                continue
+            # Megkeressük a mérkőzéshez tartozó legközelebbi linket
+            link = element.locator("xpath=ancestor::a[1]")
 
-            # Csak MTK-s mérkőzések
-            if "mtk" not in text.lower():
-                continue
+            if link.count() == 0:
+                link = element.locator("xpath=ancestor::*[self::div or self::article][1]")
 
-            if href.startswith("/"):
-                href = "https://www.eredmenyek.com" + href
+            text = " ".join(element.inner_text().split())
 
-            stats_url = href.rstrip("/") + "/osszefoglalas/statisztika/"
+            href = None
 
-            matches.append({
-                "text": text,
-                "url": href,
-                "stats_url": stats_url
-            })
+            if link.count() > 0:
+                href = link.first.get_attribute("href")
+
+            if href:
+                if href.startswith("/"):
+                    href = "https://www.eredmenyek.com" + href
+
+                stats_url = href.rstrip("/") + "/osszefoglalas/statisztika/"
+
+                matches.append({
+                    "text": text,
+                    "url": href,
+                    "stats_url": stats_url
+                })
 
         except Exception:
             continue
@@ -58,7 +67,8 @@ with sync_playwright() as p:
 unique = {}
 
 for match in matches:
-    unique[match["url"]] = match
+    if match.get("url"):
+        unique[match["url"]] = match
 
 matches = list(unique.values())
 
