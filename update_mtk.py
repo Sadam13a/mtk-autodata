@@ -1,64 +1,70 @@
 import json
-import re
-import requests
-from bs4 import BeautifulSoup
 from datetime import datetime, timezone
+from playwright.sync_api import sync_playwright
 
-URLS = [
-    "https://www.eredmenyek.com/foci/magyarorszag/nb-i/eredmenyek/",
-    "https://www.eredmenyek.com/foci/magyarorszag/nb-i/meccsek/"
-]
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/140 Safari/537.36",
-    "Accept-Language": "hu-HU,hu;q=0.9"
-}
+URL = "https://www.eredmenyek.com/foci/magyarorszag/nb-i/eredmenyek/"
 
 matches = []
 
-for url in URLS:
-    response = requests.get(url, headers=HEADERS, timeout=30)
-    response.raise_for_status()
+with sync_playwright() as p:
+    browser = p.chromium.launch(headless=True)
 
-    soup = BeautifulSoup(response.text, "html.parser")
+    page = browser.new_page(
+        locale="hu-HU",
+        timezone_id="Europe/Budapest"
+    )
 
-    # Az oldal teljes szövege
-    text = soup.get_text(" ", strip=True)
+    page.goto(URL, wait_until="networkidle", timeout=60000)
 
-    # MTK-t tartalmazó szövegrészek keresése
-    for match in re.finditer(
-        r'(\d{1,2}\.\d{1,2}\.\s+\d{1,2}:\d{2})\s+'
-        r'(MTK Budapest|[^|]+?)\s+'
-        r'(MTK Budapest|[^|]+?)',
-        text,
-        re.IGNORECASE
-    ):
-        date_time = match.group(1)
-        home = match.group(2).strip()
-        away = match.group(3).strip()
+    # Betöltés után még várunk egy kicsit
+    page.wait_for_timeout(5000)
 
-        if "mtk" not in (home + " " + away).lower():
+    # Minden mérkőzéshez tartozó link
+    links = page.locator('a[href*="/merkozes/"]')
+
+    count = links.count()
+
+    for i in range(count):
+        link = links.nth(i)
+
+        try:
+            text = " ".join(link.inner_text().split())
+            href = link.get_attribute("href")
+
+            if not href or not text:
+                continue
+
+            # Csak MTK-s mérkőzések
+            if "mtk" not in text.lower():
+                continue
+
+            if href.startswith("/"):
+                href = "https://www.eredmenyek.com" + href
+
+            stats_url = href.rstrip("/") + "/osszefoglalas/statisztika/"
+
+            matches.append({
+                "text": text,
+                "url": href,
+                "stats_url": stats_url
+            })
+
+        except Exception:
             continue
 
-        matches.append({
-            "date": date_time,
-            "home": home,
-            "away": away,
-            "source": url
-        })
+    browser.close()
 
 # Duplikációk eltávolítása
 unique = {}
 
-for m in matches:
-    key = (m["date"], m["home"], m["away"])
-    unique[key] = m
+for match in matches:
+    unique[match["url"]] = match
 
 matches = list(unique.values())
 
 data = {
     "updated": datetime.now(timezone.utc).isoformat(),
-    "source": "https://www.eredmenyek.com/",
+    "source": URL,
     "matches": matches
 }
 
