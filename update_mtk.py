@@ -2,7 +2,7 @@ import json
 from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 
-URL = "https://www.eredmenyek.com/foci/magyarorszag/nb-i/eredmenyek/"
+URL = "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/"
 
 matches = []
 
@@ -18,16 +18,34 @@ with sync_playwright() as p:
 
     page.goto(URL, wait_until="domcontentloaded", timeout=60000)
 
-    # Várunk, hogy az első eredmények megjelenjenek
+    # Megvárjuk az oldal betöltését
     page.wait_for_timeout(5000)
 
-    # Többször lefelé görgetünk, hogy az összes meccs betöltődjön
-    for _ in range(12):
-        page.mouse.wheel(0, 5000)
-        page.wait_for_timeout(1500)
+    # A "További meccsek" gombokat többször megpróbáljuk megnyomni
+    for _ in range(10):
+        try:
+            buttons = page.get_by_text("További meccsek", exact=True)
+            count = buttons.count()
 
-    # Minden linket átnézünk
-    links = page.locator("a")
+            if count == 0:
+                break
+
+            for i in range(count):
+                try:
+                    button = buttons.nth(i)
+
+                    if button.is_visible():
+                        button.click()
+                        page.wait_for_timeout(1500)
+
+                except Exception:
+                    continue
+
+        except Exception:
+            break
+
+    # Az összes mérkőzéslinket megkeressük
+    links = page.locator('a[href*="/merkozes/"]')
     count = links.count()
 
     for i in range(count):
@@ -40,10 +58,7 @@ with sync_playwright() as p:
             if not href:
                 continue
 
-            if "mtk" not in text.lower():
-                continue
-
-            if "/merkozes/" not in href:
+            if not text:
                 continue
 
             if href.startswith("/"):
