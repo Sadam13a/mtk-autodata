@@ -1,156 +1,2211 @@
 {
-  "updated": "2026-10-03T06:57:01.753452+00:00",
+  "updated": "2026-10-03T07:00:36.921213+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
     {
-      "text": "Ferencváros N - CSM Bukarest N",
-      "url": "https://www.eredmenyek.com/merkozes/kezilabda/csm-bukarest-IDYcEj7t/ferencvarosi-tc-0dh6rrzn/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/csm-bukarest-IDYcEj7t/ferencvarosi-tc-0dh6rrzn/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=jFkOIdOq",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=jFkOIdOq/osszefoglalas/statisztika/"
     },
     {
-      "text": "Győri ETO N - Bistrita N",
-      "url": "https://www.eredmenyek.com/merkozes/kezilabda/cs-gloria-bistrita-CnuaTJy3/gyori-eto-bVfjVoZm/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/cs-gloria-bistrita-CnuaTJy3/gyori-eto-bVfjVoZm/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=x8aV56Q7",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=x8aV56Q7/osszefoglalas/statisztika/"
     },
     {
-      "text": "Val Pusteria - Fehérvár AV19",
-      "url": "https://www.eredmenyek.com/merkozes/jegkorong/fehervar-av19-ALVeu5wj/valpusteria-84z1S8Yn/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/jegkorong/fehervar-av19-ALVeu5wj/valpusteria-84z1S8Yn/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=lSAj4c9j",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=lSAj4c9j/osszefoglalas/statisztika/"
     },
     {
-      "text": "Szeged - Csurgó",
-      "url": "https://www.eredmenyek.com/merkozes/kezilabda/csurgo-j9XFnxi7/pick-szeged-pnic3fIb/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/csurgo-j9XFnxi7/pick-szeged-pnic3fIb/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=z5OXb2XA",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=z5OXb2XA/osszefoglalas/statisztika/"
     },
     {
-      "text": "Győri ETO N - Szombathely N",
-      "url": "https://www.eredmenyek.com/merkozes/kezilabda/gyori-eto-bVfjVoZm/szombathely-G6nDW598/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/gyori-eto-bVfjVoZm/szombathely-G6nDW598/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=r5bf2GM5",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=r5bf2GM5/osszefoglalas/statisztika/"
     },
     {
-      "text": "Ferencváros N - Mosonmagyaróvár N",
-      "url": "https://www.eredmenyek.com/merkozes/kezilabda/ferencvarosi-tc-0dh6rrzn/mosonmagyarovar-pturFXvl/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/ferencvarosi-tc-0dh6rrzn/mosonmagyarovar-pturFXvl/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=trZs8ogR",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=trZs8ogR/osszefoglalas/statisztika/"
     },
     {
-      "text": "Partizan - Veszprém",
-      "url": "https://www.eredmenyek.com/merkozes/kezilabda/partizan-belgrad-CCN9TShK/veszprem-hGjN3EX4/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/partizan-belgrad-CCN9TShK/veszprem-hGjN3EX4/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=rohfcUv9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=rohfcUv9/osszefoglalas/statisztika/"
     },
     {
-      "text": "Veszprém - Eger",
-      "url": "https://www.eredmenyek.com/merkozes/kezilabda/eger-tKf6cZrI/veszprem-hGjN3EX4/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/eger-tKf6cZrI/veszprem-hGjN3EX4/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=YJfFpie3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=YJfFpie3/osszefoglalas/statisztika/"
     },
     {
-      "text": "Fehérvár AV19 - Salzburg",
-      "url": "https://www.eredmenyek.com/merkozes/jegkorong/fehervar-av19-ALVeu5wj/salzburg-GSq0EQUL/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/jegkorong/fehervar-av19-ALVeu5wj/salzburg-GSq0EQUL/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=nB46VYPO",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=nB46VYPO/osszefoglalas/statisztika/"
     },
     {
-      "text": "Győri ETO N - Metz N",
-      "url": "https://www.eredmenyek.com/merkozes/kezilabda/gyori-eto-bVfjVoZm/metz-SjMxXdfB/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/gyori-eto-bVfjVoZm/metz-SjMxXdfB/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/komarno-Uu7c0kf9/mtk-budapest-ppX6bEHk/?mid=zaqvpG1t",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/komarno-Uu7c0kf9/mtk-budapest-ppX6bEHk/?mid=zaqvpG1t/osszefoglalas/statisztika/"
     },
     {
-      "text": "Inter - Lumezzane",
-      "url": "https://www.eredmenyek.com/merkozes/foci/inter-Iw7eKK25/lumezzane-8hzzdqhG/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/inter-Iw7eKK25/lumezzane-8hzzdqhG/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=IVbU3bge",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=IVbU3bge/osszefoglalas/statisztika/"
     },
     {
-      "text": "India - Brazília",
-      "url": "https://www.eredmenyek.com/merkozes/foci/brazilia-I9l9aqLq/india-A1UUGpep/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/brazilia-I9l9aqLq/india-A1UUGpep/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/koper-vP5HUcK5/mtk-budapest-ppX6bEHk/?mid=8x7rD2W8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/koper-vP5HUcK5/mtk-budapest-ppX6bEHk/?mid=8x7rD2W8/osszefoglalas/statisztika/"
     },
     {
-      "text": "Horvátország - Anglia",
-      "url": "https://www.eredmenyek.com/merkozes/foci/anglia-j9N9ZNFA/horvatorszag-K8aznggo/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/anglia-j9N9ZNFA/horvatorszag-K8aznggo/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/lnz-cherkasy-2m6zvQp5/mtk-budapest-ppX6bEHk/?mid=tj5jBt1L",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/lnz-cherkasy-2m6zvQp5/mtk-budapest-ppX6bEHk/?mid=tj5jBt1L/osszefoglalas/statisztika/"
     },
     {
-      "text": "Spanyolország - Csehország",
-      "url": "https://www.eredmenyek.com/merkozes/foci/csehorszag-6LHwBDGU/spanyolorszag-bLyo6mco/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csehorszag-6LHwBDGU/spanyolorszag-bLyo6mco/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/celje-SpbURe4O/mtk-budapest-ppX6bEHk/?mid=dIXvCccM",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/celje-SpbURe4O/mtk-budapest-ppX6bEHk/?mid=dIXvCccM/osszefoglalas/statisztika/"
     },
     {
-      "text": "Argentína - Burkina Faso",
-      "url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/burkina-faso-bJOXzWga/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/burkina-faso-bJOXzWga/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=AJpmSq1t",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=AJpmSq1t/osszefoglalas/statisztika/"
     },
     {
-      "text": "Görögország - Németország",
-      "url": "https://www.eredmenyek.com/merkozes/foci/gorogorszag-COuk57Ci/nemetorszag-ptQide1O/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gorogorszag-COuk57Ci/nemetorszag-ptQide1O/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=tMP22IuS",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=tMP22IuS/osszefoglalas/statisztika/"
     },
     {
-      "text": "Portugália - Norvégia",
-      "url": "https://www.eredmenyek.com/merkozes/foci/norvegia-8rP6JO0H/portugalia-WvJrjFVN/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/norvegia-8rP6JO0H/portugalia-WvJrjFVN/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=pvUyLSgD",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=pvUyLSgD/osszefoglalas/statisztika/"
     },
     {
-      "text": "Franciaország - Belgium",
-      "url": "https://www.eredmenyek.com/merkozes/foci/belgium-GbB957na/franciaorszag-QkGeVG1n/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/belgium-GbB957na/franciaorszag-QkGeVG1n/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=zogr6SNk",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=zogr6SNk/osszefoglalas/statisztika/"
     },
     {
-      "text": "Olaszország - Törökország",
-      "url": "https://www.eredmenyek.com/merkozes/foci/olaszorszag-hlKvieGH/torokorszag-QeijuHo5/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/olaszorszag-hlKvieGH/torokorszag-QeijuHo5/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=Qw4AexAU",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=Qw4AexAU/osszefoglalas/statisztika/"
     },
     {
-      "text": "Horvátország - Spanyolország",
-      "url": "https://www.eredmenyek.com/merkozes/foci/horvatorszag-K8aznggo/spanyolorszag-bLyo6mco/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/horvatorszag-K8aznggo/spanyolorszag-bLyo6mco/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=IgxLpLeC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=IgxLpLeC/osszefoglalas/statisztika/"
     },
     {
-      "text": "Videoton - Újpest",
-      "url": "https://www.eredmenyek.com/merkozes/foci/ujpest-02x8YFgF/videoton-MctUvj1e/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ujpest-02x8YFgF/videoton-MctUvj1e/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=EeWLyQCs",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=EeWLyQCs/osszefoglalas/statisztika/"
     },
     {
-      "text": "Ukrajna - Magyarország",
-      "url": "https://www.eredmenyek.com/merkozes/foci/magyarorszag-MTVhw6Go/ukrajna-j1JtDMwo/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/magyarorszag-MTVhw6Go/ukrajna-j1JtDMwo/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=zkqfNQcl",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=zkqfNQcl/osszefoglalas/statisztika/"
     },
     {
-      "text": "Törökország U21 - Magyarország U21",
-      "url": "https://www.eredmenyek.com/merkozes/foci/magyarorszag-r1a2DSyG/torokorszag-fqRIB66S/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/magyarorszag-r1a2DSyG/torokorszag-fqRIB66S/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=M5kXUHac",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=M5kXUHac/osszefoglalas/statisztika/"
     },
     {
-      "text": "Kazincbarcika - Karcag",
-      "url": "https://www.eredmenyek.com/merkozes/foci/karcag-QmBnIcDO/kazincbarcika-KhWRqihE/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/karcag-QmBnIcDO/kazincbarcika-KhWRqihE/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=nmykIvGi",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=nmykIvGi/osszefoglalas/statisztika/"
     },
     {
-      "text": "Vasas - Kisvárda",
-      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/vasas-Eusk3D88/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/vasas-Eusk3D88/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=8OI71kKU",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=8OI71kKU/osszefoglalas/statisztika/"
     },
     {
-      "text": "Ferencváros - DVSC",
-      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/ferencvarosi-tc-pKS9M7R7/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/ferencvarosi-tc-pKS9M7R7/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=jPPF3Kq1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=jPPF3Kq1/osszefoglalas/statisztika/"
     },
     {
-      "text": "Videoton - Szentlőrinc",
-      "url": "https://www.eredmenyek.com/merkozes/foci/szentlorinc-8nTZJCAg/videoton-MctUvj1e/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/szentlorinc-8nTZJCAg/videoton-MctUvj1e/osszefoglalas/statisztika/"
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=rubQh3Vr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=rubQh3Vr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=CzWJonOF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=CzWJonOF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=bX5pXn9M",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=bX5pXn9M/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=xMsZbkU1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=xMsZbkU1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=dSVSIdlC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=dSVSIdlC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=ltip8uzf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=ltip8uzf/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=dOmO2pbE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=dOmO2pbE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=lxwVPP9M",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=lxwVPP9M/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=p8nYjSCi",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=p8nYjSCi/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=bo7TRVAC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=bo7TRVAC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=84nm1XM9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=84nm1XM9/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=pYDLr4ko",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=pYDLr4ko/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=ncCFZQCU",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=ncCFZQCU/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=vDpQO9bC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=vDpQO9bC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=dAUuRvOr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=dAUuRvOr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=j9PRJNGF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=j9PRJNGF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=rPcx962c",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=rPcx962c/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=bHNCxXEF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=bHNCxXEF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=4IAAf7m4",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=4IAAf7m4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=2DzgtHSg",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=2DzgtHSg/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=0tYUdLcR",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=0tYUdLcR/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=Qm10O0i2",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=Qm10O0i2/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=dAl3nDwh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=dAl3nDwh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=jcyFrVY8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=jcyFrVY8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=b1s4HhvI",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=b1s4HhvI/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=jF2L6yQa",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=jF2L6yQa/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=rVzWeKBs",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=rVzWeKBs/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=2DfG1kr3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=2DfG1kr3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=zoRgR86j",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=zoRgR86j/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=ITQbNTPi",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=ITQbNTPi/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/komarno-Uu7c0kf9/mtk-budapest-ppX6bEHk/?mid=bPgVh284",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/komarno-Uu7c0kf9/mtk-budapest-ppX6bEHk/?mid=bPgVh284/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=zy4lHkp1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=zy4lHkp1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=6Lg9fySP",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=6Lg9fySP/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/univ-craiova-bsd9fGaK/?mid=Uw1tJBFl",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/univ-craiova-bsd9fGaK/?mid=Uw1tJBFl/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/csikszereda-A5gTQ7pG/mtk-budapest-ppX6bEHk/?mid=tUrVoktg",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csikszereda-A5gTQ7pG/mtk-budapest-ppX6bEHk/?mid=tUrVoktg/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/mura-bL3DSo9L/?mid=xtM1QgNE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/mura-bL3DSo9L/?mid=xtM1QgNE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/o-ljubljana-hr3HR5OR/?mid=MXwF2jV7",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/o-ljubljana-hr3HR5OR/?mid=MXwF2jV7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=ILtqfx2U",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=ILtqfx2U/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=dCepm3lm",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=dCepm3lm/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=SYb9ojDr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=SYb9ojDr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=0I5ntey3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=0I5ntey3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=Sz0DTHic",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=Sz0DTHic/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=xvcQvQC4",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=xvcQvQC4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=jk1ZGdho",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=jk1ZGdho/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=OM5KMRO6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=OM5KMRO6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=O0UqAlu1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=O0UqAlu1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=h6LCUfrn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=h6LCUfrn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=tICgaXQr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=tICgaXQr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=SYIW6OSi",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=SYIW6OSi/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=Sb2NunUh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=Sb2NunUh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=U3zcPQqC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=U3zcPQqC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=fo6ouaHt",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=fo6ouaHt/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=K62QYwH8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=K62QYwH8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=hMD1zWzG",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=hMD1zWzG/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=jiOO1BUj",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=jiOO1BUj/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=rDurkYpo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=rDurkYpo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tatabanya-URufuAG1/?mid=C0iPMbBF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tatabanya-URufuAG1/?mid=C0iPMbBF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/motor-lublin-IoLk2VlL/mtk-budapest-ppX6bEHk/?mid=M1HjDNVG",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/motor-lublin-IoLk2VlL/mtk-budapest-ppX6bEHk/?mid=M1HjDNVG/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/imt-novi-beograd-CIgZyXPE/mtk-budapest-ppX6bEHk/?mid=t4VgtEXa",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/imt-novi-beograd-CIgZyXPE/mtk-budapest-ppX6bEHk/?mid=t4VgtEXa/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/universitatea-cluj-Us6gkXaT/?mid=0Im07Dnf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/universitatea-cluj-Us6gkXaT/?mid=0Im07Dnf/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=xhxze3H6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=xhxze3H6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=U7Appn3l",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=U7Appn3l/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=xxxnB6lL",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=xxxnB6lL/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=fkd2X8Jr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=fkd2X8Jr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=OpUeQiCF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=OpUeQiCF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=jLoe8JjU",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=jLoe8JjU/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=8bXRMclQ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=8bXRMclQ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=pU7HZeye",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=pU7HZeye/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=CCmP2xcf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=CCmP2xcf/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=4rWEnQ6d",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=4rWEnQ6d/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=OAuKcjFc",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=OAuKcjFc/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=CAzRSVFN",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=CAzRSVFN/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=QucpGhWH",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=QucpGhWH/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/hodmezovasarhely-nT5vA8MR/mtk-budapest-ppX6bEHk/?mid=6iY5ttb4",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/hodmezovasarhely-nT5vA8MR/mtk-budapest-ppX6bEHk/?mid=6iY5ttb4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=8t4hINel",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=8t4hINel/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=G884bT4F",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=G884bT4F/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=h69G33Pc",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=h69G33Pc/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=YTbNoV3C",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=YTbNoV3C/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=bBpuZiK6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=bBpuZiK6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/komarno-Uu7c0kf9/mtk-budapest-ppX6bEHk/?mid=MTTBE7Q9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/komarno-Uu7c0kf9/mtk-budapest-ppX6bEHk/?mid=MTTBE7Q9/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=CbAT1Ut4",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=CbAT1Ut4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=voCL3jCi",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=voCL3jCi/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/cukaricki-tEBfcZh3/mtk-budapest-ppX6bEHk/?mid=M9sydvgo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/cukaricki-tEBfcZh3/mtk-budapest-ppX6bEHk/?mid=M9sydvgo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bravo-dfincSI4/mtk-budapest-ppX6bEHk/?mid=8Cj148MP",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bravo-dfincSI4/mtk-budapest-ppX6bEHk/?mid=8Cj148MP/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zorya-j9Wy32w4/?mid=QPt610VN",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zorya-j9Wy32w4/?mid=QPt610VN/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/primorje-lnquVJkg/?mid=4Ahc3M0B",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/primorje-lnquVJkg/?mid=4Ahc3M0B/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bkv-elore-x23p81h2/mtk-budapest-ppX6bEHk/?mid=URCaO3WH",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bkv-elore-x23p81h2/mtk-budapest-ppX6bEHk/?mid=URCaO3WH/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=6XyfwCeL",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=6XyfwCeL/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=48ieIAJe",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=48ieIAJe/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=GviAwLk4",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=GviAwLk4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=2yRzPLzB",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=2yRzPLzB/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=4te69tyO",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=4te69tyO/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=UmYlFp7n",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=UmYlFp7n/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=rcDYCfQI",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=rcDYCfQI/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=GtCtok9o",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=GtCtok9o/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=fDheaydJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=fDheaydJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=Yc4n1cR6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=Yc4n1cR6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=j3p416Lk",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=j3p416Lk/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=6V8X6ScS",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=6V8X6ScS/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=GMJ4CZVD",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=GMJ4CZVD/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=js9TlTyp",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=js9TlTyp/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=n9QpciU3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=n9QpciU3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=t8cOujaT",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=t8cOujaT/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=OhADNjwo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=OhADNjwo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=b5wMXz1h",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=b5wMXz1h/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/banska-bystrica-QLQLObff/mtk-budapest-ppX6bEHk/?mid=GQDRAKoa",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/banska-bystrica-QLQLObff/mtk-budapest-ppX6bEHk/?mid=GQDRAKoa/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=rROHGUeN",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=rROHGUeN/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=CISN8Fhn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=CISN8Fhn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=WG2rxcpb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=WG2rxcpb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/magdeburg-YFuz2RLm/mtk-budapest-ppX6bEHk/?mid=4tBMTQnS",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/magdeburg-YFuz2RLm/mtk-budapest-ppX6bEHk/?mid=4tBMTQnS/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/voluntari-WIoSeFi4/?mid=WjJ9WS29",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/voluntari-WIoSeFi4/?mid=WjJ9WS29/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=4pVgU1f0",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=4pVgU1f0/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=EaOMyp2Q",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=EaOMyp2Q/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=WMgqOQXQ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=WMgqOQXQ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=b9eyQn3E",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=b9eyQn3E/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=8KtgD9J8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=8KtgD9J8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=GQg7k6R1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=GQg7k6R1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/esmtk-budapest-Iqa2snlE/mtk-budapest-ppX6bEHk/?mid=6kaHL5AM",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/esmtk-budapest-Iqa2snlE/mtk-budapest-ppX6bEHk/?mid=6kaHL5AM/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=M3IB0WZ2",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=M3IB0WZ2/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=AiobC8HH",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=AiobC8HH/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=bm4xHW2n",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=bm4xHW2n/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=ppv32Xmg",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=ppv32Xmg/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=8bDYnhl6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=8bDYnhl6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gesztely-v7G9iC5j/mtk-budapest-ppX6bEHk/?mid=AFqb0Lra",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gesztely-v7G9iC5j/mtk-budapest-ppX6bEHk/?mid=AFqb0Lra/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=ziQoddRJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=ziQoddRJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=CIvizF40",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=CIvizF40/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=vkhLMez1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kecskemeti-te-vsq0Rrxm/mtk-budapest-ppX6bEHk/?mid=vkhLMez1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=IZ3COH5l",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=IZ3COH5l/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=CnzxVm31",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=CnzxVm31/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=YV16SQ6M",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=YV16SQ6M/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=bc9Ajg0N",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=bc9Ajg0N/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=nN56iZpH",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=nN56iZpH/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/celje-SpbURe4O/mtk-budapest-ppX6bEHk/?mid=AZwa1IxJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/celje-SpbURe4O/mtk-budapest-ppX6bEHk/?mid=AZwa1IxJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/cukaricki-tEBfcZh3/mtk-budapest-ppX6bEHk/?mid=ImPDgIsb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/cukaricki-tEBfcZh3/mtk-budapest-ppX6bEHk/?mid=ImPDgIsb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bravo-dfincSI4/mtk-budapest-ppX6bEHk/?mid=KCFLwagS",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bravo-dfincSI4/mtk-budapest-ppX6bEHk/?mid=KCFLwagS/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/hajduk-split-2w5qgpq0/mtk-budapest-ppX6bEHk/?mid=tMGHvuvM",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/hajduk-split-2w5qgpq0/mtk-budapest-ppX6bEHk/?mid=tMGHvuvM/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=z9oHt199",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=z9oHt199/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=tnnDssf3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=tnnDssf3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kaposvar-vgyCXZ8L/mtk-budapest-ppX6bEHk/?mid=Qw4QJw2d",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kaposvar-vgyCXZ8L/mtk-budapest-ppX6bEHk/?mid=Qw4QJw2d/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=YVPb4l4O",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=YVPb4l4O/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=jZdR3HDD",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=jZdR3HDD/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/pecsi-mfc-tftqSYKF/?mid=jFUuhKE1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/pecsi-mfc-tftqSYKF/?mid=jFUuhKE1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=jo3p3pN2",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=jo3p3pN2/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tiszakecske-OnU9vMCj/?mid=2BsHS3oj",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tiszakecske-OnU9vMCj/?mid=2BsHS3oj/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=MyrXxl9c",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=MyrXxl9c/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=Io4zKZ2I",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=Io4zKZ2I/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=hvJAPwZt",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=hvJAPwZt/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=ddaIfJZ6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=ddaIfJZ6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=MZUY2sSQ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=MZUY2sSQ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=W8lfbtJp",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=W8lfbtJp/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=6R4F5OQA",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=6R4F5OQA/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=0jsFxQdO",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=0jsFxQdO/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=CUl2uSC5",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=CUl2uSC5/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=4nElQe71",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=4nElQe71/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=rXPuSHxk",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=rXPuSHxk/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=0YJR1LOq",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=0YJR1LOq/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=dfhIpFnb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=dfhIpFnb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szentlorinc-8nTZJCAg/?mid=42Ye7s1M",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szentlorinc-8nTZJCAg/?mid=42Ye7s1M/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kapaz-hEojvsib/mtk-budapest-ppX6bEHk/?mid=CfS1Oj77",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kapaz-hEojvsib/mtk-budapest-ppX6bEHk/?mid=CfS1Oj77/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/magdeburg-YFuz2RLm/mtk-budapest-ppX6bEHk/?mid=fiBunZsH",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/magdeburg-YFuz2RLm/mtk-budapest-ppX6bEHk/?mid=fiBunZsH/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/borussia-dortmund-vVcwNP6f/mtk-budapest-ppX6bEHk/?mid=C8FKjcTo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/borussia-dortmund-vVcwNP6f/mtk-budapest-ppX6bEHk/?mid=C8FKjcTo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=Ee8wgitC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=Ee8wgitC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=EcqF6kgE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=EcqF6kgE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=QDOygWOE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=QDOygWOE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/pecsi-mfc-tftqSYKF/?mid=xh6ksZP2",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/pecsi-mfc-tftqSYKF/?mid=xh6ksZP2/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=CWXMuMlb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=CWXMuMlb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tiszakecske-OnU9vMCj/?mid=UmGWU4zt",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tiszakecske-OnU9vMCj/?mid=UmGWU4zt/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=EHg1FPzg",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=EHg1FPzg/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=KvEi9lEJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=KvEi9lEJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/felsozsolca-0G1CvWn5/mtk-budapest-ppX6bEHk/?mid=UVbk28Xu",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/felsozsolca-0G1CvWn5/mtk-budapest-ppX6bEHk/?mid=UVbk28Xu/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=OhUlkTMm",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=OhUlkTMm/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=M7pRdKOd",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=M7pRdKOd/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=G6H4uJgM",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=G6H4uJgM/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=Y1bBmeUo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=Y1bBmeUo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/issimo-CzEvD3oN/mtk-budapest-ppX6bEHk/?mid=bmnwGD08",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/issimo-CzEvD3oN/mtk-budapest-ppX6bEHk/?mid=bmnwGD08/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=2TAgVDEH",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=2TAgVDEH/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=CCsNvRoE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kozarmisleny-Yik4F60k/mtk-budapest-ppX6bEHk/?mid=CCsNvRoE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=4A0WH3v1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=4A0WH3v1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=6uO5FAI2",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=6uO5FAI2/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=EoyKi7Qe",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=EoyKi7Qe/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=rLau3tTu",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=rLau3tTu/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szentlorinc-8nTZJCAg/?mid=hdKVrwrO",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szentlorinc-8nTZJCAg/?mid=hdKVrwrO/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=bD7asQ6J",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=bD7asQ6J/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/aluminij-KU49TRgF/mtk-budapest-ppX6bEHk/?mid=hjwYjPPH",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/aluminij-KU49TRgF/mtk-budapest-ppX6bEHk/?mid=hjwYjPPH/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/triglav-vuyqLqnk/?mid=h6yqNi0e",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/triglav-vuyqLqnk/?mid=h6yqNi0e/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ashdod-U7w6AibD/mtk-budapest-ppX6bEHk/?mid=vqRUTAwl",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ashdod-U7w6AibD/mtk-budapest-ppX6bEHk/?mid=vqRUTAwl/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/grosuplje-Kb6aUTS7/mtk-budapest-ppX6bEHk/?mid=IwGppTSh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/grosuplje-Kb6aUTS7/mtk-budapest-ppX6bEHk/?mid=IwGppTSh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/trabzonspor-MmsYDc03/?mid=G2RtWXc8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/trabzonspor-MmsYDc03/?mid=G2RtWXc8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/iii-keruleti-tve-dftcjg80/mtk-budapest-ppX6bEHk/?mid=vVafWLAh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/iii-keruleti-tve-dftcjg80/mtk-budapest-ppX6bEHk/?mid=vVafWLAh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=UkNtUwIT",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=UkNtUwIT/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=xnHQvPQE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=xnHQvPQE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dabas-gyon-rLMEEx6N/mtk-budapest-ppX6bEHk/?mid=KA6VwqtL",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dabas-gyon-rLMEEx6N/mtk-budapest-ppX6bEHk/?mid=KA6VwqtL/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=bafdmSOb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=bafdmSOb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=AwxAyVPn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=AwxAyVPn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=GGx6xBAt",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=GGx6xBAt/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=KzK2s0d8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=KzK2s0d8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=6XVKIGJ7",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=6XVKIGJ7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=xhIY6JKe",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=xhIY6JKe/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=rVIU7a5k",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=rVIU7a5k/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=ptbLa2DS",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=ptbLa2DS/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=jJbH0rbM",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=jJbH0rbM/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=re2LtN6j",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=re2LtN6j/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=p2BAoChI",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=p2BAoChI/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=2wM5nhwC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=2wM5nhwC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=tnnBbGG0",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=tnnBbGG0/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=bNd6ad1f",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=bNd6ad1f/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=Ya7Sma2r",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=Ya7Sma2r/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=SIUahufR",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=SIUahufR/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/sahtar-donyeck-6NPzV7HC/?mid=dntYlKra",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/sahtar-donyeck-6NPzV7HC/?mid=dntYlKra/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/radomiak-radom-zD5nYhAT/?mid=MHoxS4dI",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/radomiak-radom-zD5nYhAT/?mid=MHoxS4dI/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nieciecza-YNkK4khO/?mid=x4hlwV4J",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nieciecza-YNkK4khO/?mid=x4hlwV4J/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/borec-OKcQw1FI/mtk-budapest-ppX6bEHk/?mid=v5nvIPrC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/borec-OKcQw1FI/mtk-budapest-ppX6bEHk/?mid=v5nvIPrC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=tlmFtreF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=tlmFtreF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=bPcAsOu9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=bPcAsOu9/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=pbaNrDKo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=pbaNrDKo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=rgLvKTso",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=rgLvKTso/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=rVxhTXKb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=rVxhTXKb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=pOrEHzMn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=pOrEHzMn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=j1qAIG6t",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=j1qAIG6t/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=Y3o4U8bs",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=Y3o4U8bs/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=b3r0AJEJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=b3r0AJEJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=p0fIozxJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=p0fIozxJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=zDoVnPGe",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=zDoVnPGe/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=tjnRm51k",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=tjnRm51k/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/?mid=W8xx7T1S",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/?mid=W8xx7T1S/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=6yKOu89S",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=6yKOu89S/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=nyNop8rO",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=nyNop8rO/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=xxEaYAqC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=xxEaYAqC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=viedZjU5",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=viedZjU5/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=jRM8re7J",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=jRM8re7J/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=zZAhNPJD",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=zZAhNPJD/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/triglav-vuyqLqnk/?mid=SbppWqGN",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/triglav-vuyqLqnk/?mid=SbppWqGN/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dinamo-moszkva-AFWA2jAQ/mtk-budapest-ppX6bEHk/?mid=25v5MdiC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dinamo-moszkva-AFWA2jAQ/mtk-budapest-ppX6bEHk/?mid=25v5MdiC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/rijeka-zXKuUR5J/?mid=CfUEFG5q",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/rijeka-zXKuUR5J/?mid=CfUEFG5q/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bravo-dfincSI4/mtk-budapest-ppX6bEHk/?mid=UHJVTsL0",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bravo-dfincSI4/mtk-budapest-ppX6bEHk/?mid=UHJVTsL0/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bvsc-zuglo-2o1dIwok/mtk-budapest-ppX6bEHk/?mid=0r7P0gKU",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bvsc-zuglo-2o1dIwok/mtk-budapest-ppX6bEHk/?mid=0r7P0gKU/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/iii-keruleti-tve-dftcjg80/mtk-budapest-ppX6bEHk/?mid=jaxLS7ym",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/iii-keruleti-tve-dftcjg80/mtk-budapest-ppX6bEHk/?mid=jaxLS7ym/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=r11Gxz6I",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=r11Gxz6I/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=hC83uxMa",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=hC83uxMa/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=AZNZPdMC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=AZNZPdMC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=M9knZ0aQ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=M9knZ0aQ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=YPU8LsVQ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=YPU8LsVQ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=pfqgFdx3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=pfqgFdx3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=CKqEa087",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=CKqEa087/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=vgbXLjP9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=vgbXLjP9/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=vVu5M2bN",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=vVu5M2bN/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=jJYH7oj2",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=jJYH7oj2/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=j9mhP4E4",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=j9mhP4E4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=QRFV73qU",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=QRFV73qU/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=MTZ5D7Fh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=MTZ5D7Fh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tallya-A51FyAHH/?mid=lEtgoeDR",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tallya-A51FyAHH/?mid=lEtgoeDR/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=l2dP0UVn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=l2dP0UVn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=GERAs7VO",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=GERAs7VO/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=27J9WPsQ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=27J9WPsQ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=ltLllins",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=ltLllins/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=dlDMpIuk",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=dlDMpIuk/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=YimqXbBk",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=YimqXbBk/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=6s34vsJF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=6s34vsJF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=SIr4posc",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=SIr4posc/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=COJ1KLRq",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=COJ1KLRq/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=MXPHU5ki",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=MXPHU5ki/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=lpe3BrkT",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=lpe3BrkT/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=MJpqG6zb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=MJpqG6zb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=SbxHCXT5",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=SbxHCXT5/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=CMSYafp0",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=CMSYafp0/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=O0zM2d0s",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=O0zM2d0s/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=OxIg38Zf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=OxIg38Zf/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bataszek-2gur7L7R/mtk-budapest-ppX6bEHk/?mid=t6O6pdfj",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bataszek-2gur7L7R/mtk-budapest-ppX6bEHk/?mid=t6O6pdfj/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=QR7ECCC8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=QR7ECCC8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=I1ryagr9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=I1ryagr9/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=Gx2twCLk",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=Gx2twCLk/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=hdhia2xh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=hdhia2xh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/43-sz-epitok-sk-QPuaGFa9/mtk-budapest-ppX6bEHk/?mid=YN3777PS",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/43-sz-epitok-sk-QPuaGFa9/mtk-budapest-ppX6bEHk/?mid=YN3777PS/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=AJ7NqNx5",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=AJ7NqNx5/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=EubGP4p4",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=EubGP4p4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=vDl283FT",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=vDl283FT/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=GY3xE7oh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=GY3xE7oh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=4I0cxclF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=4I0cxclF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/sered-4l3rT0aP/?mid=nZunoTxc",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/sered-4l3rT0aP/?mid=nZunoTxc/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/koper-vP5HUcK5/mtk-budapest-ppX6bEHk/?mid=hS060wSc",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/koper-vP5HUcK5/mtk-budapest-ppX6bEHk/?mid=hS060wSc/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/radomlje-Mq8RBeI3/?mid=Ii9yfGd9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/radomlje-Mq8RBeI3/?mid=Ii9yfGd9/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/iii-keruleti-tve-dftcjg80/mtk-budapest-ppX6bEHk/?mid=YBDFBsmN",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/iii-keruleti-tve-dftcjg80/mtk-budapest-ppX6bEHk/?mid=YBDFBsmN/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=fgxOcf3e",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=fgxOcf3e/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=MF8KdEI1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=MF8KdEI1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=QoKvfWWT",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=QoKvfWWT/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=fDllyaHr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=fDllyaHr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=j1JoK8W7",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=j1JoK8W7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=nNJetfIo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=nNJetfIo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=WjmjVYv9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=WjmjVYv9/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=A5zDHAuo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=A5zDHAuo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tiszakecske-OnU9vMCj/?mid=b9sHIee3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tiszakecske-OnU9vMCj/?mid=b9sHIee3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=p0UU6bdi",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=p0UU6bdi/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dunaujvaros-UiLkT9vC/mtk-budapest-ppX6bEHk/?mid=6qnxQ9mO",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dunaujvaros-UiLkT9vC/mtk-budapest-ppX6bEHk/?mid=6qnxQ9mO/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=G8hLjn6g",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=G8hLjn6g/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dunaujvaros-UiLkT9vC/mtk-budapest-ppX6bEHk/?mid=l8iXQkYH",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dunaujvaros-UiLkT9vC/mtk-budapest-ppX6bEHk/?mid=l8iXQkYH/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=nX26ZpyJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=nX26ZpyJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=josCP97f",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=josCP97f/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kaiserslautern-naWckLmC/mtk-budapest-ppX6bEHk/?mid=CUrHp8mg",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kaiserslautern-naWckLmC/mtk-budapest-ppX6bEHk/?mid=CUrHp8mg/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budaors-ATgFAV0r/mtk-budapest-ppX6bEHk/?mid=OpEpphd7",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budaors-ATgFAV0r/mtk-budapest-ppX6bEHk/?mid=OpEpphd7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=U9Z7WYR7",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=U9Z7WYR7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=EXNrYKdO",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=EXNrYKdO/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szolnok-4YlfBc04/?mid=0ULLKyTe",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szolnok-4YlfBc04/?mid=0ULLKyTe/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=nRFYoa94",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=nRFYoa94/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=tKkQV1yc",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=tKkQV1yc/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=St74eLap",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=St74eLap/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=xfgBIi1t",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=xfgBIi1t/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=h25FniHC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=h25FniHC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-eac-IqI0DQM8/mtk-budapest-ppX6bEHk/?mid=CnKeSg4b",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-eac-IqI0DQM8/mtk-budapest-ppX6bEHk/?mid=CnKeSg4b/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=p2a0wSM1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=p2a0wSM1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=AsnLgupf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=AsnLgupf/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vac-SlDUd5s4/?mid=OQqGbxgA",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vac-SlDUd5s4/?mid=OQqGbxgA/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=0AiiZLPb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=0AiiZLPb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/unione-l2ySXmVm/?mid=OMu5bODm",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/unione-l2ySXmVm/?mid=OMu5bODm/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=6XBsTp3P",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=6XBsTp3P/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=zTwWAoss",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=zTwWAoss/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dunajska-streda-YHIkizpH/mtk-budapest-ppX6bEHk/?mid=AmeooKqJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dunajska-streda-YHIkizpH/mtk-budapest-ppX6bEHk/?mid=AmeooKqJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tiszakecske-OnU9vMCj/?mid=2y1OEfrF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tiszakecske-OnU9vMCj/?mid=2y1OEfrF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=nV5p3cq3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=nV5p3cq3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=EHPyzaFG",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=EHPyzaFG/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=WYTGvN0o",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=WYTGvN0o/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=QayUy0T6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=QayUy0T6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budaors-ATgFAV0r/mtk-budapest-ppX6bEHk/?mid=Y5CjOta7",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budaors-ATgFAV0r/mtk-budapest-ppX6bEHk/?mid=Y5CjOta7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=A9nDANU7",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=A9nDANU7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=Clu3lxCf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=Clu3lxCf/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/shmona-QN0gwBSC/?mid=QF7p8LBn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/shmona-QN0gwBSC/?mid=QF7p8LBn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=pQmaYe6S",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=pQmaYe6S/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/minaj-IidLuocN/mtk-budapest-ppX6bEHk/?mid=t0BMVG1m",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/minaj-IidLuocN/mtk-budapest-ppX6bEHk/?mid=t0BMVG1m/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/sered-4l3rT0aP/?mid=rgXBTZ7G",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/sered-4l3rT0aP/?mid=rgXBTZ7G/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/monor-42UYnLnr/mtk-budapest-ppX6bEHk/?mid=Y7iMpMX0",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/monor-42UYnLnr/mtk-budapest-ppX6bEHk/?mid=Y7iMpMX0/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=06gA7gSq",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=06gA7gSq/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=E9LMGc5c",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=E9LMGc5c/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=f5ld0xLG",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=f5ld0xLG/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=lnWr506o",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=lnWr506o/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=2yeEkL6b",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=2yeEkL6b/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=jcReXwiU",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=jcReXwiU/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=naoWxrNh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=naoWxrNh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=jBj6k0k1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=jBj6k0k1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=h4dSw3jk",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=h4dSw3jk/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=vcGip5DL",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=vcGip5DL/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=6mYpRP6q",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=6mYpRP6q/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=dEb1Zma3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=dEb1Zma3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=bJWzJSEM",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=bJWzJSEM/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=UmrYb7Nj",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=UmrYb7Nj/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=lWNmKHga",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=lWNmKHga/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/lviv-6PUu5i3m/mtk-budapest-ppX6bEHk/?mid=4OJOjB0C",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/lviv-6PUu5i3m/mtk-budapest-ppX6bEHk/?mid=4OJOjB0C/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/sabah-baku-fNGcxbyr/?mid=QXKKiio6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/sabah-baku-fNGcxbyr/?mid=QXKKiio6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/trabzonspor-MmsYDc03/?mid=jXVC1k1b",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/trabzonspor-MmsYDc03/?mid=jXVC1k1b/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/genclerbirligi-GOPqBIRK/mtk-budapest-ppX6bEHk/?mid=I7HCgDGg",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/genclerbirligi-GOPqBIRK/mtk-budapest-ppX6bEHk/?mid=I7HCgDGg/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=OSvQ4xfC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=OSvQ4xfC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=fmm98Kfm",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=fmm98Kfm/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=pINjMeYd",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ajka-YakVmGwo/mtk-budapest-ppX6bEHk/?mid=pINjMeYd/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=xCGrhaA6",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=xCGrhaA6/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=OpYe13mK",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=OpYe13mK/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=GhlKuklJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=GhlKuklJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=OQ5Ak6l8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=OQ5Ak6l8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=EeOJSrse",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=EeOJSrse/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vecses-GdYpaCKD/?mid=x0QZ6ETB",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vecses-GdYpaCKD/?mid=x0QZ6ETB/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=llgYkFri",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=llgYkFri/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=Oh6CYDDG",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=Oh6CYDDG/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/st-polten-8KA7Qw1U/?mid=M1RWnY2d",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/st-polten-8KA7Qw1U/?mid=M1RWnY2d/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=xxpBUqeo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/videoton-MctUvj1e/?mid=xxpBUqeo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=bN6OwlYb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mezokovesd-Wl17PM6a/mtk-budapest-ppX6bEHk/?mid=bN6OwlYb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tallya-A51FyAHH/?mid=ldTkqXRL",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/tallya-A51FyAHH/?mid=ldTkqXRL/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=z9Z1Mn3O",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=z9Z1Mn3O/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/proleter-novi-sad-nobA7NWS/?mid=xjDJUPwA",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/proleter-novi-sad-nobA7NWS/?mid=xjDJUPwA/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=GvkYSWJt",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=GvkYSWJt/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=fFqOAk4C",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/haladas-fc-C6prpoL8/mtk-budapest-ppX6bEHk/?mid=fFqOAk4C/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=WYZYWuLE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/mtk-budapest-ppX6bEHk/?mid=WYZYWuLE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=xGjWCKTr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/diosgyori-vtk-QulwZyP2/mtk-budapest-ppX6bEHk/?mid=xGjWCKTr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=O8lQ3siS",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=O8lQ3siS/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=hAXE6q79",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=hAXE6q79/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=lSZ4Tzk3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=lSZ4Tzk3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/monor-42UYnLnr/mtk-budapest-ppX6bEHk/?mid=r55A7zJo",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/monor-42UYnLnr/mtk-budapest-ppX6bEHk/?mid=r55A7zJo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senica-4tudpPM6/?mid=6JfWgHln",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senica-4tudpPM6/?mid=6JfWgHln/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nitra-W6u55wAD/?mid=t2bVc4w2",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nitra-W6u55wAD/?mid=t2bVc4w2/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=WQu6D0rI",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=WQu6D0rI/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/michalovce-tUE0cRCi/mtk-budapest-ppX6bEHk/?mid=SAIl3aFs",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/michalovce-tUE0cRCi/mtk-budapest-ppX6bEHk/?mid=SAIl3aFs/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/komarno-Uu7c0kf9/mtk-budapest-ppX6bEHk/?mid=AFHNQWZr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/komarno-Uu7c0kf9/mtk-budapest-ppX6bEHk/?mid=AFHNQWZr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=0t6gWVLf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=0t6gWVLf/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=2VeEuza8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=2VeEuza8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=htnx7Fhq",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=htnx7Fhq/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=4CoiSPOi",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=4CoiSPOi/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=63zlboAB",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=63zlboAB/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/?mid=vyHv2TAn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/?mid=vyHv2TAn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=4I2dkjRt",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=4I2dkjRt/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=jVIh9j1F",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=jVIh9j1F/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=MexuuA7d",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=MexuuA7d/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vac-SlDUd5s4/?mid=ji6yoNHd",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vac-SlDUd5s4/?mid=ji6yoNHd/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=d85mkfV3",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soroksar-vTCIIJrC/?mid=d85mkfV3/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=bNClPZ30",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=bNClPZ30/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=SCP8wcWi",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=SCP8wcWi/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=fonSQJnn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=fonSQJnn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budaors-ATgFAV0r/mtk-budapest-ppX6bEHk/?mid=YDQDBmsr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budaors-ATgFAV0r/mtk-budapest-ppX6bEHk/?mid=YDQDBmsr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=tGoZIVl8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=tGoZIVl8/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=Um8pQFlf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=Um8pQFlf/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szolnok-4YlfBc04/?mid=YwA4pBrq",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szolnok-4YlfBc04/?mid=YwA4pBrq/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/?mid=xY5JswEC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/?mid=xY5JswEC/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=4MOjZPIp",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=4MOjZPIp/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/?mid=67QpMXwh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/?mid=67QpMXwh/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=AFwE0jyn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=AFwE0jyn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=8runHstn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=8runHstn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/cegled-Gr9bgxGN/mtk-budapest-ppX6bEHk/?mid=xhKnvF4C",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/cegled-Gr9bgxGN/mtk-budapest-ppX6bEHk/?mid=xhKnvF4C/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=C4melaSJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=C4melaSJ/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=niFOws0q",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=niFOws0q/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=llXNEby1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=llXNEby1/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=2iazO2EE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=2iazO2EE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=prks6UhT",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=prks6UhT/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=2agMAhvb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=2agMAhvb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=nNN8rze5",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=nNN8rze5/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=0U70EzHF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=0U70EzHF/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/?mid=Yqk0nIet",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/?mid=Yqk0nIet/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=lf2gjRdE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=lf2gjRdE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=Wl6Dgun9",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=Wl6Dgun9/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=zksxLKup",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kazincbarcika-KhWRqihE/mtk-budapest-ppX6bEHk/?mid=zksxLKup/osszefoglalas/statisztika/"
     },
     {
       "text": "Paks - MTK",
       "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/osszefoglalas/statisztika/"
-    },
-    {
-      "text": "Zalaegerszeg - Nyíregyháza",
-      "url": "https://www.eredmenyek.com/merkozes/foci/nyiregyhaza-spartacus-fc-Srog2XNE/zalaegerszeg-r7sQuWok/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/nyiregyhaza-spartacus-fc-Srog2XNE/zalaegerszeg-r7sQuWok/osszefoglalas/statisztika/"
-    },
-    {
-      "text": "Honvéd - Újpest",
-      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/ujpest-02x8YFgF/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/ujpest-02x8YFgF/osszefoglalas/statisztika/"
     }
   ]
 }
