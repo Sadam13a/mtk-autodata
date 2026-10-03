@@ -18,9 +18,15 @@ with sync_playwright() as p:
 
     page.goto(URL, wait_until="domcontentloaded", timeout=60000)
 
-    page.wait_for_timeout(8000)
+    # Várunk, hogy az első eredmények megjelenjenek
+    page.wait_for_timeout(5000)
 
-    # Az összes linket átnézzük
+    # Többször lefelé görgetünk, hogy az összes meccs betöltődjön
+    for _ in range(12):
+        page.mouse.wheel(0, 5000)
+        page.wait_for_timeout(1500)
+
+    # Minden linket átnézünk
     links = page.locator("a")
     count = links.count()
 
@@ -43,7 +49,10 @@ with sync_playwright() as p:
             if href.startswith("/"):
                 href = "https://www.eredmenyek.com" + href
 
-            stats_url = href.rstrip("/") + "/osszefoglalas/statisztika/"
+            stats_url = (
+                href.rstrip("/")
+                + "/osszefoglalas/statisztika/"
+            )
 
             matches.append({
                 "text": text,
