@@ -1,11 +1,156 @@
 {
-  "updated": "2026-10-03T06:51:58.325304+00:00",
-  "source": "https://www.eredmenyek.com/foci/magyarorszag/nb-i/eredmenyek/",
+  "updated": "2026-10-03T06:57:01.753452+00:00",
+  "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
+    {
+      "text": "Ferencváros N - CSM Bukarest N",
+      "url": "https://www.eredmenyek.com/merkozes/kezilabda/csm-bukarest-IDYcEj7t/ferencvarosi-tc-0dh6rrzn/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/csm-bukarest-IDYcEj7t/ferencvarosi-tc-0dh6rrzn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Győri ETO N - Bistrita N",
+      "url": "https://www.eredmenyek.com/merkozes/kezilabda/cs-gloria-bistrita-CnuaTJy3/gyori-eto-bVfjVoZm/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/cs-gloria-bistrita-CnuaTJy3/gyori-eto-bVfjVoZm/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Val Pusteria - Fehérvár AV19",
+      "url": "https://www.eredmenyek.com/merkozes/jegkorong/fehervar-av19-ALVeu5wj/valpusteria-84z1S8Yn/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/jegkorong/fehervar-av19-ALVeu5wj/valpusteria-84z1S8Yn/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Szeged - Csurgó",
+      "url": "https://www.eredmenyek.com/merkozes/kezilabda/csurgo-j9XFnxi7/pick-szeged-pnic3fIb/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/csurgo-j9XFnxi7/pick-szeged-pnic3fIb/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Győri ETO N - Szombathely N",
+      "url": "https://www.eredmenyek.com/merkozes/kezilabda/gyori-eto-bVfjVoZm/szombathely-G6nDW598/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/gyori-eto-bVfjVoZm/szombathely-G6nDW598/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Ferencváros N - Mosonmagyaróvár N",
+      "url": "https://www.eredmenyek.com/merkozes/kezilabda/ferencvarosi-tc-0dh6rrzn/mosonmagyarovar-pturFXvl/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/ferencvarosi-tc-0dh6rrzn/mosonmagyarovar-pturFXvl/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Partizan - Veszprém",
+      "url": "https://www.eredmenyek.com/merkozes/kezilabda/partizan-belgrad-CCN9TShK/veszprem-hGjN3EX4/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/partizan-belgrad-CCN9TShK/veszprem-hGjN3EX4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Veszprém - Eger",
+      "url": "https://www.eredmenyek.com/merkozes/kezilabda/eger-tKf6cZrI/veszprem-hGjN3EX4/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/eger-tKf6cZrI/veszprem-hGjN3EX4/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Fehérvár AV19 - Salzburg",
+      "url": "https://www.eredmenyek.com/merkozes/jegkorong/fehervar-av19-ALVeu5wj/salzburg-GSq0EQUL/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/jegkorong/fehervar-av19-ALVeu5wj/salzburg-GSq0EQUL/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Győri ETO N - Metz N",
+      "url": "https://www.eredmenyek.com/merkozes/kezilabda/gyori-eto-bVfjVoZm/metz-SjMxXdfB/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/kezilabda/gyori-eto-bVfjVoZm/metz-SjMxXdfB/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Inter - Lumezzane",
+      "url": "https://www.eredmenyek.com/merkozes/foci/inter-Iw7eKK25/lumezzane-8hzzdqhG/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/inter-Iw7eKK25/lumezzane-8hzzdqhG/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "India - Brazília",
+      "url": "https://www.eredmenyek.com/merkozes/foci/brazilia-I9l9aqLq/india-A1UUGpep/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/brazilia-I9l9aqLq/india-A1UUGpep/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Horvátország - Anglia",
+      "url": "https://www.eredmenyek.com/merkozes/foci/anglia-j9N9ZNFA/horvatorszag-K8aznggo/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/anglia-j9N9ZNFA/horvatorszag-K8aznggo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Spanyolország - Csehország",
+      "url": "https://www.eredmenyek.com/merkozes/foci/csehorszag-6LHwBDGU/spanyolorszag-bLyo6mco/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csehorszag-6LHwBDGU/spanyolorszag-bLyo6mco/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Argentína - Burkina Faso",
+      "url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/burkina-faso-bJOXzWga/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/argentina-f9OppQjp/burkina-faso-bJOXzWga/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Görögország - Németország",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gorogorszag-COuk57Ci/nemetorszag-ptQide1O/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gorogorszag-COuk57Ci/nemetorszag-ptQide1O/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Portugália - Norvégia",
+      "url": "https://www.eredmenyek.com/merkozes/foci/norvegia-8rP6JO0H/portugalia-WvJrjFVN/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/norvegia-8rP6JO0H/portugalia-WvJrjFVN/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Franciaország - Belgium",
+      "url": "https://www.eredmenyek.com/merkozes/foci/belgium-GbB957na/franciaorszag-QkGeVG1n/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/belgium-GbB957na/franciaorszag-QkGeVG1n/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Olaszország - Törökország",
+      "url": "https://www.eredmenyek.com/merkozes/foci/olaszorszag-hlKvieGH/torokorszag-QeijuHo5/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/olaszorszag-hlKvieGH/torokorszag-QeijuHo5/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Horvátország - Spanyolország",
+      "url": "https://www.eredmenyek.com/merkozes/foci/horvatorszag-K8aznggo/spanyolorszag-bLyo6mco/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/horvatorszag-K8aznggo/spanyolorszag-bLyo6mco/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Videoton - Újpest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ujpest-02x8YFgF/videoton-MctUvj1e/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ujpest-02x8YFgF/videoton-MctUvj1e/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Ukrajna - Magyarország",
+      "url": "https://www.eredmenyek.com/merkozes/foci/magyarorszag-MTVhw6Go/ukrajna-j1JtDMwo/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/magyarorszag-MTVhw6Go/ukrajna-j1JtDMwo/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Törökország U21 - Magyarország U21",
+      "url": "https://www.eredmenyek.com/merkozes/foci/magyarorszag-r1a2DSyG/torokorszag-fqRIB66S/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/magyarorszag-r1a2DSyG/torokorszag-fqRIB66S/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Kazincbarcika - Karcag",
+      "url": "https://www.eredmenyek.com/merkozes/foci/karcag-QmBnIcDO/kazincbarcika-KhWRqihE/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/karcag-QmBnIcDO/kazincbarcika-KhWRqihE/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Vasas - Kisvárda",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/vasas-Eusk3D88/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/vasas-Eusk3D88/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Ferencváros - DVSC",
+      "url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/ferencvarosi-tc-pKS9M7R7/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/debreceni-vsc-8KymAhn2/ferencvarosi-tc-pKS9M7R7/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Videoton - Szentlőrinc",
+      "url": "https://www.eredmenyek.com/merkozes/foci/szentlorinc-8nTZJCAg/videoton-MctUvj1e/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/szentlorinc-8nTZJCAg/videoton-MctUvj1e/osszefoglalas/statisztika/"
+    },
     {
       "text": "Paks - MTK",
       "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Zalaegerszeg - Nyíregyháza",
+      "url": "https://www.eredmenyek.com/merkozes/foci/nyiregyhaza-spartacus-fc-Srog2XNE/zalaegerszeg-r7sQuWok/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/nyiregyhaza-spartacus-fc-Srog2XNE/zalaegerszeg-r7sQuWok/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "Honvéd - Újpest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/ujpest-02x8YFgF/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/ujpest-02x8YFgF/osszefoglalas/statisztika/"
     }
   ]
 }
