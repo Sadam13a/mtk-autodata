@@ -3,6 +3,7 @@ from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 
 URL = "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/"
+MTK_ID = "ppX6bEHk"
 
 matches = []
 
@@ -17,34 +18,37 @@ with sync_playwright() as p:
     page = context.new_page()
 
     page.goto(URL, wait_until="domcontentloaded", timeout=60000)
-
-    # Megvárjuk az oldal betöltését
     page.wait_for_timeout(5000)
 
-    # A "További meccsek" gombokat többször megpróbáljuk megnyomni
+    # Több mérkőzés betöltése
     for _ in range(10):
         try:
             buttons = page.get_by_text("További meccsek", exact=True)
-            count = buttons.count()
 
-            if count == 0:
+            if buttons.count() == 0:
                 break
 
-            for i in range(count):
+            clicked = False
+
+            for i in range(buttons.count()):
                 try:
                     button = buttons.nth(i)
 
                     if button.is_visible():
                         button.click()
                         page.wait_for_timeout(1500)
+                        clicked = True
 
                 except Exception:
-                    continue
+                    pass
+
+            if not clicked:
+                break
 
         except Exception:
             break
 
-    # Az összes mérkőzéslinket megkeressük
+    # Mérkőzéslinkek keresése
     links = page.locator('a[href*="/merkozes/"]')
     count = links.count()
 
@@ -58,7 +62,8 @@ with sync_playwright() as p:
             if not href:
                 continue
 
-            if not text:
+            # CSAK MTK Budapest mérkőzése
+            if MTK_ID not in href:
                 continue
 
             if href.startswith("/"):
