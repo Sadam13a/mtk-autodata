@@ -18,45 +18,38 @@ with sync_playwright() as p:
 
     page.goto(URL, wait_until="domcontentloaded", timeout=60000)
 
-    # Megvárjuk, hogy az eredmények megjelenjenek
-    page.get_by_text("MTK Budapest", exact=True).first.wait_for(
-        state="visible",
-        timeout=30000
-    )
+    page.wait_for_timeout(8000)
 
-    # Az MTK-t tartalmazó elemek keresése
-    mtk_elements = page.get_by_text("MTK Budapest", exact=True)
-
-    count = mtk_elements.count()
+    # Az összes linket átnézzük
+    links = page.locator("a")
+    count = links.count()
 
     for i in range(count):
         try:
-            element = mtk_elements.nth(i)
+            link = links.nth(i)
 
-            # Megkeressük a mérkőzéshez tartozó legközelebbi linket
-            link = element.locator("xpath=ancestor::a[1]")
+            text = " ".join(link.inner_text().split())
+            href = link.get_attribute("href")
 
-            if link.count() == 0:
-                link = element.locator("xpath=ancestor::*[self::div or self::article][1]")
+            if not href:
+                continue
 
-            text = " ".join(element.inner_text().split())
+            if "mtk" not in text.lower():
+                continue
 
-            href = None
+            if "/merkozes/" not in href:
+                continue
 
-            if link.count() > 0:
-                href = link.first.get_attribute("href")
+            if href.startswith("/"):
+                href = "https://www.eredmenyek.com" + href
 
-            if href:
-                if href.startswith("/"):
-                    href = "https://www.eredmenyek.com" + href
+            stats_url = href.rstrip("/") + "/osszefoglalas/statisztika/"
 
-                stats_url = href.rstrip("/") + "/osszefoglalas/statisztika/"
-
-                matches.append({
-                    "text": text,
-                    "url": href,
-                    "stats_url": stats_url
-                })
+            matches.append({
+                "text": text,
+                "url": href,
+                "stats_url": stats_url
+            })
 
         except Exception:
             continue
@@ -67,8 +60,7 @@ with sync_playwright() as p:
 unique = {}
 
 for match in matches:
-    if match.get("url"):
-        unique[match["url"]] = match
+    unique[match["url"]] = match
 
 matches = list(unique.values())
 
