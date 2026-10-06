@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T17:28:58.921494+00:00",
+  "updated": "2026-10-06T18:33:30.582191+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
     {
@@ -2206,6 +2206,11 @@
       "text": "MTK Budapest - Paks",
       "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/osszefoglalas/statisztika/"
+    },
+    {
+      "text": "MTK Budapest - Vasas",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/osszefoglalas/statisztika/"
     }
   ]
 }
