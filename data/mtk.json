@@ -1,7 +1,12 @@
 {
-  "updated": "2026-10-16T19:41:33.856216+00:00",
+  "updated": "2026-10-16T20:43:28.906644+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
+    {
+      "text": "MTK Budapest - Vasas",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=dWrAonbm",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/osszefoglalas/statisztika/?mid=dWrAonbm"
+    },
     {
       "text": "MTK Budapest - Paks",
       "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/paks-0rhLtCWr/?mid=jZaavVjK",
@@ -2196,11 +2201,6 @@
       "text": "Gyirmot Fc Gyor - MTK Budapest",
       "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=lf2gjRdE",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=lf2gjRdE"
-    },
-    {
-      "text": "MTK Budapest - Szeged Csanad Ga",
-      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/?mid=Wl6Dgun9",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szeged-csanad-ga-hImB5ta6/osszefoglalas/statisztika/?mid=Wl6Dgun9"
     }
   ]
 }
