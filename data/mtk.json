@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T15:38:57.839087+00:00",
+  "updated": "2026-10-18T16:41:15.713617+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
     {
@@ -2201,6 +2201,11 @@
       "text": "Gyirmot Fc Gyor - MTK Budapest",
       "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=lf2gjRdE",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=lf2gjRdE"
+    },
+    {
+      "text": "Ferencvarosi Tc - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/"
     }
   ]
 }
