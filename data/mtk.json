@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T16:12:35.935343+00:00",
+  "updated": "2026-10-26T16:55:02.569383+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
     {
@@ -2101,6 +2101,106 @@
       "text": "Dorogi Fc - MTK Budapest",
       "url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/?mid=SCP8wcWi",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/dorogi-fc-zsxRqAVe/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=SCP8wcWi"
+    },
+    {
+      "text": "MTK Budapest - Nyiregyhaza Spartacus Fc",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/?mid=fonSQJnn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/osszefoglalas/statisztika/?mid=fonSQJnn"
+    },
+    {
+      "text": "Budaors - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budaors-ATgFAV0r/mtk-budapest-ppX6bEHk/?mid=YDQDBmsr",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budaors-ATgFAV0r/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=YDQDBmsr"
+    },
+    {
+      "text": "Budafoki Mte - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/?mid=tGoZIVl8",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/budafoki-mte-ncCrJwbI/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=tGoZIVl8"
+    },
+    {
+      "text": "MTK Budapest - Ujpest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=Um8pQFlf",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/osszefoglalas/statisztika/?mid=Um8pQFlf"
+    },
+    {
+      "text": "MTK Budapest - Szolnok",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szolnok-4YlfBc04/?mid=YwA4pBrq",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/szolnok-4YlfBc04/osszefoglalas/statisztika/?mid=YwA4pBrq"
+    },
+    {
+      "text": "MTK Budapest - Senyo",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/?mid=xY5JswEC",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/osszefoglalas/statisztika/?mid=xY5JswEC"
+    },
+    {
+      "text": "Bekescsaba - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/?mid=4MOjZPIp",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/bekescsaba-S4fYDBhR/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=4MOjZPIp"
+    },
+    {
+      "text": "MTK Budapest - Senyo",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/?mid=67QpMXwh",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/senyo-j9zAoJTA/osszefoglalas/statisztika/?mid=67QpMXwh"
+    },
+    {
+      "text": "Kispest Honved Fc - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/?mid=AFwE0jyn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kispest-honved-fc-fHXrBYWe/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=AFwE0jyn"
+    },
+    {
+      "text": "MTK Budapest - Vasas",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/?mid=8runHstn",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/vasas-Eusk3D88/osszefoglalas/statisztika/?mid=8runHstn"
+    },
+    {
+      "text": "Cegled - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/cegled-Gr9bgxGN/mtk-budapest-ppX6bEHk/?mid=xhKnvF4C",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/cegled-Gr9bgxGN/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=xhKnvF4C"
+    },
+    {
+      "text": "Csakvar - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/?mid=C4melaSJ",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/csakvar-6Bcf5DcH/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=C4melaSJ"
+    },
+    {
+      "text": "Gyirmot Fc Gyor - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/?mid=niFOws0q",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyirmot-fc-gyor-02KZ7Tp1/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=niFOws0q"
+    },
+    {
+      "text": "MTK Budapest - Siofok",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/?mid=llXNEby1",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/siofok-YFzGWgOR/osszefoglalas/statisztika/?mid=llXNEby1"
+    },
+    {
+      "text": "Kisvarda Fc - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/?mid=2iazO2EE",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=2iazO2EE"
+    },
+    {
+      "text": "MTK Budapest - Zalaegerszeg",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=prks6UhT",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/osszefoglalas/statisztika/?mid=prks6UhT"
+    },
+    {
+      "text": "Gyori Eto - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=2agMAhvb",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=2agMAhvb"
+    },
+    {
+      "text": "Mosonmagyarovari Te - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=nNN8rze5",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=nNN8rze5"
+    },
+    {
+      "text": "Ivancsa - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=0U70EzHF",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=0U70EzHF"
+    },
+    {
+      "text": "MTK Budapest - Soproni Vse",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/?mid=Yqk0nIet",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/osszefoglalas/statisztika/?mid=Yqk0nIet"
     }
   ]
 }
