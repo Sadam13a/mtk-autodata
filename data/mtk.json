@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T11:54:07.087789+00:00",
+  "updated": "2026-10-28T13:05:25.614189+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
     {
@@ -2201,6 +2201,11 @@
       "text": "MTK Budapest - Soproni Vse",
       "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/?mid=Yqk0nIet",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/osszefoglalas/statisztika/?mid=Yqk0nIet"
+    },
+    {
+      "text": "MTK Budapest - Zalaegerszeg",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/osszefoglalas/statisztika/"
     }
   ]
 }
