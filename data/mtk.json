@@ -1,7 +1,12 @@
 {
-  "updated": "2026-10-28T13:05:25.614189+00:00",
+  "updated": "2026-10-28T14:07:58.477761+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
+    {
+      "text": "Monor - MTK Budapest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/monor-42UYnLnr/mtk-budapest-ppX6bEHk/?mid=jmcXX4vq",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/monor-42UYnLnr/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=jmcXX4vq"
+    },
     {
       "text": "Ferencvarosi Tc - MTK Budapest",
       "url": "https://www.eredmenyek.com/merkozes/foci/ferencvarosi-tc-pKS9M7R7/mtk-budapest-ppX6bEHk/?mid=ADLMCOdn",
@@ -2196,11 +2201,6 @@
       "text": "Ivancsa - MTK Budapest",
       "url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=0U70EzHF",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=0U70EzHF"
-    },
-    {
-      "text": "MTK Budapest - Soproni Vse",
-      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/?mid=Yqk0nIet",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/soproni-vse-xzkBQq56/osszefoglalas/statisztika/?mid=Yqk0nIet"
     },
     {
       "text": "MTK Budapest - Zalaegerszeg",
