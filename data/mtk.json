@@ -1,7 +1,12 @@
 {
-  "updated": "2026-10-31T15:45:16.943435+00:00",
+  "updated": "2026-10-31T19:59:40.383270+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
+    {
+      "text": "MTK Budapest - Zalaegerszeg",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=2mhIlCAd",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/osszefoglalas/statisztika/?mid=2mhIlCAd"
+    },
     {
       "text": "Monor - MTK Budapest",
       "url": "https://www.eredmenyek.com/merkozes/foci/monor-42UYnLnr/mtk-budapest-ppX6bEHk/?mid=jmcXX4vq",
@@ -2196,16 +2201,6 @@
       "text": "Mosonmagyarovari Te - MTK Budapest",
       "url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/?mid=nNN8rze5",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/mosonmagyarovari-te-bJCXN2OE/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=nNN8rze5"
-    },
-    {
-      "text": "Ivancsa - MTK Budapest",
-      "url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/?mid=0U70EzHF",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/ivancsa-SOfZD8jf/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=0U70EzHF"
-    },
-    {
-      "text": "MTK Budapest - Zalaegerszeg",
-      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/osszefoglalas/statisztika/"
     },
     {
       "text": "Kispest Honved Fc - MTK Budapest",
