@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T06:19:10.600862+00:00",
+  "updated": "2026-11-11T21:57:54.119463+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
     {
@@ -2201,6 +2201,11 @@
       "text": "Gyori Eto - MTK Budapest",
       "url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/?mid=2agMAhvb",
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/gyori-eto-4WnsYev9/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=2agMAhvb"
+    },
+    {
+      "text": "MTK Budapest - Puskas Akademia",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/osszefoglalas/statisztika/"
     }
   ]
 }
