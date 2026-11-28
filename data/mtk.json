@@ -1,7 +1,12 @@
 {
-  "updated": "2026-11-28T10:26:55.165164+00:00",
+  "updated": "2026-11-28T18:58:07.948090+00:00",
   "source": "https://www.eredmenyek.com/csapat/mtk-budapest/ppX6bEHk/eredmenyek/",
   "matches": [
+    {
+      "text": "MTK Budapest - Ujpest",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/?mid=pUvtRZYg",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/osszefoglalas/statisztika/?mid=pUvtRZYg"
+    },
     {
       "text": "MTK Budapest - Puskas Akademia",
       "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/puskas-akademia-2m24xZpe/?mid=QsBUJIRQ",
@@ -2198,14 +2203,9 @@
       "stats_url": "https://www.eredmenyek.com/merkozes/foci/kisvarda-fc-W8WY1Eze/mtk-budapest-ppX6bEHk/osszefoglalas/statisztika/?mid=2iazO2EE"
     },
     {
-      "text": "MTK Budapest - Zalaegerszeg",
-      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/?mid=prks6UhT",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/zalaegerszeg-r7sQuWok/osszefoglalas/statisztika/?mid=prks6UhT"
-    },
-    {
-      "text": "MTK Budapest - Ujpest",
-      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/",
-      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/ujpest-02x8YFgF/osszefoglalas/statisztika/"
+      "text": "MTK Budapest - Nyiregyhaza Spartacus Fc",
+      "url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/",
+      "stats_url": "https://www.eredmenyek.com/merkozes/foci/mtk-budapest-ppX6bEHk/nyiregyhaza-spartacus-fc-Srog2XNE/osszefoglalas/statisztika/"
     }
   ]
 }
